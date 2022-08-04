@@ -1,0 +1,799 @@
+1	je pron. pers．我（主语代词）【I】
+2	tu pron. pers．你（主语代词）【you】
+3	il pron. pers．他（它）（主语代词）【he/it】
+4	elle pron.per. 她（它）（主语代词）【she/it】
+5	nous pron. pers．我们（主语代词）【we】
+6	vous pron. pers．你们（您）（主语代词）【you】
+7	lit n.m. 床【bed】
+8	salle n.f. 房间，厅室【room, hall】
+9	fils n.m. [fis] 儿子【son】
+10	château n.m. 城堡【castle】
+11	cheveu n.m. 头发【hair】
+12	avocat, e n. 律师【lawyer】
+13	ami, e n. 朋友【friend】
+14	malade adj. et n. 生病的（人）【sick, ill】
+15	ouvrier, ère n. 工人【worker】
+16	abeille n.f. 蜜蜂【bee】
+17	un(e) adj.num. 一【one】 | art. indéf. ( des) 一个（一些）【a（≈some）】
+19	le(la, les) art.déf. 这个，那个（这些，那些）【the】
+20	ça pron.dém. (口)这个【it】
+21	oui adv. 是，是的【yes】
+22	pas n.m. 步子，脚步【step】 | adv. 不，没（与 ne 连用）【not】
+23	à prép. 在；到【at ; to】
+24	être v.i. 是【be】
+25	sigle n.m. 缩略语【acronym, initials】
+26	de prép. …的；从，自【of ; from】
+27	si conj. 如果；是否【if】 | adv. 如此地【so】 | adv. 是，是的（对否定形式的一般疑问句作肯定回答）【yes】
+28	vite adv. 很快地【quickly】
+29	femme n.f. 女人；妻子【woman ; wife】
+30	là adv. 那边，那里【there】
+31	bas, se adj. 低的【low】 | n.m. 长筒袜【stocking】
+32	ici adv. 这里【here】
+33	souvent adv. 经常地【often】
+34	tard adv. 晚【late】
+35	haut, e adj. 高的【high】
+36	fort, e adj. 强壮的；擅长的【strong ; good (at)】 | adv. 很，非常，有力地【highly】
+37	mille adj. et n.m. 一千【thousand】
+38	âme n.f. 灵魂【soul】
+39	âne n.m. 驴子，笨蛋【donkey】
+40	avoir v.t. 有【have】
+41	mal adv. 不好地【badly】 | n.m. 疼痛【pain】
+42	patte n.f. 爪子【paw】
+43	pied n.m. 脚【foot】
+44	SIDA n.m. 艾滋病【AIDS】
+45	diable interj. 鬼；见鬼【devil ; go to hell】
+46	sept adj.num. [sεt] 七【seven】
+47	pour prép. 为了【for】
+48	piscine n.f. 游泳池【pool】
+49	avec prép. 和……一起【with】
+50	ou conj. 或者【or】
+51	bague n.f. 戒指【ring】
+52	balle n.f. 子弹【bullet】
+53	nappe n.f. 桌布，台布【tablecloth】
+54	botte n.f. 靴子【boot】
+55	habile adj. 灵活的，灵巧的【skilful, clever】
+56	maïs n.m. [mais] 玉米【corn】
+57	île n.f. 岛屿【island】
+58	cible n.f. 目标，靶子【target】
+59	qui pron.interr. 谁【who】
+60	avis n.m. 见解【view】
+61	facile adj. 容易的【easy】
+62	tas n.m. 堆，垛【heap】
+63	sable n.m. 沙子【sand】
+64	colis n.m. 包裹【parcel】
+65	chaise n.f. 椅子【chair】
+66	moi pron. 我（重读代词）【me】
+67	toi pron. 你（重读代词）【you】
+68	lui pron. 他/它（重读代词）【him/ it】
+69	eux pron.pers.m.pl. 他（它）们（重读代词）【them】
+70	bibliothèque n.f. 图书馆【library】
+71	et conj. [e] 和【and】
+72	voir v.t. 看见【see】
+73	utiliser v.t. 使用【use】
+74	baguette n.f. 长棍面包 | pl. 筷子【French loaf ; chopsticks】
+75	oiseau n.m. 鸟【bird】
+76	prendre v.t. 拿；喝；吃；搭乘【take】
+77	récipient n.m. 容器，器皿【container】
+78	libre adj. 自由的；空闲的【free】
+79	célèbre adj. 著名的【famous】
+80	beau(bel, belle) adj. 美丽的【beautiful】
+81	ce pron.dém. 这个（指人或事物）【≈ this, that, it】 | adj.dém. （cet, cette, ces）这个，那个；这些，那些【this, that ; these, those】
+82	penser v.i. et v.t. 想【think】
+83	donc conj. 因此【so】
+84	dire v.t. 说，讲【say】
+85	état n.m. 国家；状态【state】
+86	après prép. et adv. 在……以后【after】
+87	rien pron. 什么也没有，什么也不【nothing】
+88	peu adv. 少【few, little】
+89	champ n.m. 田野【field】
+90	manger v.t. 吃【eat】
+91	prier v.t. 祈求【pray】
+92	aimer v.t. 爱；喜欢【love ; like】
+93	bonheur n.m. 幸福【happiness】
+94	faire v.t. 做【do】
+95	merci interj. 谢谢【thank you】
+96	peur n.f. 害怕【fear】
+97	avant prép. 在……之前（一般表示时间）【before】
+98	lâche adj. 懦弱的【coward】
+99	milieu n.m. 中间，中央，中部【middle】
+100	chinois, e n. 中国人 | adj. 中国（人）的 | n.m. 汉语【chinese】
+101	naître v.i. 诞生【be born】
+102	en prép. 在……（表示地点）；在……时候，在……时间内【in】 | pron.adv. （副代词）【无对应英文】
+103	y pron.adv.（副代词）【无对应英文】
+104	berceau n.m. 摇篮；发源地【cradle】
+105	jusque loc.prép. 直到【until】 105	dix adj.num. [dis] 十【ten】
+106	huit adj.num. [ɥit] 八【eight】
+107	an n.m. 年，岁【year】
+108	réussir v.i. et v.t. 成功【succeed】
+109	échec n.m. 失败【failure】
+110	gifle n.f. 耳光【slap】
+111	par prép. 由……经过，通过…… 【by】
+112	fenêtre n.f. 窗子【window】
+113	chez prép. 在……家里【at someone’s house】
+114	petit, e adj. 小的【small】
+115	chat n.m. 猫【cat】
+116	très adv. 很，非常【very】
+117	mignon, ne adj. 娇小可爱的【cute】
+118	laisser v.t. 让；留下，搁下【let ; leave】
+119	quelque adj. 某些，几个【some】
+120	sur prép. 在……上面；关于【on】
+121	neiger v.imp. 下雪【snow】
+122	blanc, blanche adj. 白色的【white】
+123	noir, e adj. 黑色的【black】
+124	rire v.i. 笑【laugh】
+125	jaune adj. 黄色的【yellow】
+126	quand adv. interr. 何时，什么时候【when】
+127	souris n.f. 小老鼠；鼠标【mouse】
+128	midi n.m. 中午【noon】
+129	dans prép. 在……里【in】
+130	vide adj. 空的【empty】
+131	fil n.m. 线【thread】
+132	monde n.m. 世界；人们【world ; people】
+133	tel, le adj. 这样的，如此的【such】
+134	chanter v.t. 唱歌【sing】
+135	partir v.i. 出发，动身【set off】
+136	sans prép. 无，没有【without】
+137	venir v.i. 来【come】
+138	trouver v.t. 找到，觉得【find】
+139	aller v.i. 去【go】
+140	tôt adv. 早【early】
+141	mardi n.m. 星期二【Tuesday】
+142	mercredi n.m. 星期三【Wednesday】
+143	vendredi n.m. 星期五【Friday】
+144	matin n.m. 早晨，上午【morning】
+145	tomber v.i. 摔倒；掉下，落下【fall】
+146	comment adv. 如何，怎么【how】
+147	bien adv. 好【well】 | n.m. 好处【good】
+148	mon(ma, mes) adj.poss. 我的【my】
+149	ton(ta, tes) adj.poss. 你的【your】
+150	son(sa, ses) adj.poss. 他（她/它）的【his, her, its】 | n.m. 声音【sound】
+151	notre(nos) adj.poss. 我们的【our】
+152	votre(vos) adj.poss. 你们（您）的【your】
+153	leur adj.poss. 他（她/它）们的【their】
+154	fromage n.m. 奶酪【cheese】
+155	bière n.f. 啤酒【beer】
+156	soulier n.m. 鞋，皮鞋【shoe】
+157	armoire n.f. 衣橱，橱柜【wardrobe】
+158	horloge n.f. 时钟【clock】
+159	blouson n.m. 夹克衫【jacket】
+160	caleçon n.m. 短裤【short pants】
+161	tasse n.f. 杯子【cup】
+162	deux adj.num. 二【two】
+163	professeur n.m. 老师【teacher】
+164	trois adj.num. 三【three】
+165	librairie n.f. 书店【bookstore】
+166	rue n.f. 街【street】
+167	non adv. 不【no】
+168	ivre adj. 醉的【drunk】
+169	étudier v.t. 研究；学习【study】
+170	où adv. interr. 哪里【where】
+171	quel, le adj.interr. 什么样的，哪类的【what，which】adj. exclam. 多么，何等【what a, how】
+172	combien(de) adv. 多少【how much，how many】
+173	thé n.m. 茶【tea】
+174	fille n.f. 女孩；女儿【girl ; daughter】
+175	maison n.f. 房子；家【house】
+176	heure n.f. 小时【hour】
+177	soir n.m. 晚上【evening】
+178	parce_que loc.conj. 因为【because】
+179	pain n.m. 面包【bread】
+180	que pron. interr. 什么；【what】 | conjonction de subordination. 作为连词引出从句【that】
+181	chien n.m. 狗【dog】
+182	quoi pron.interr. 什么（重读代词）【what】
+183	français, e n. 法国人 | adj. 法国（人）的 | n.m. 法语【french】
+184	couteau n.m. 刀【knife】
+185	fourchette n.f. 餐叉【fork】
+186	été n.m. 夏天【summer】
+187	magasin n.m. 商店【shop】
+188	eau n.f. 水【water】
+189	coûter v. i. 值（多少钱）【cost】
+190	cinq adj.num. [sɛ̃k] 五【five】
+191	fou(fol), folle adj. et n. 疯狂的【crazy, mad】
+192	mais conj. 但是【but】
+193	grand, e adj. 大的【big】
+194	nuit n.f. 夜晚【night】
+195	sou n.m. 钱【≈ penny】
+196	beaucoup adv. 很多，非常【much】
+197	boulangerie n.f. 面包店【bakery】
+198	acheter v.t. 购买【buy】
+199	depuis prép. 自……以来【since】
+200	rêve n.m. 梦；梦想【dream】
+201	aile n.f. [εl] 翅膀【wing】
+202	comme conj. 好像；作为；因为【like ; as】
+203	lycée n.m. 高中【high school】
+204	temps n.m. 时间；天气【time ; weather】
+205	jeune adj. 年轻的【young】
+206	boire v.t. 喝【drink】
+207	trop adv. 太【too】
+208	toujours adv. 总是，永远，依然【always】
+209	maigre adj. 瘦的【thin】
+210	clou n.m. 钉子【nail】
+211	mer n.f. 海，大海【sea】
+212	naufrage n.m. （船在海上）遇难，失事【shipwreck】
+213	jour n.m. 白天【day】
+214	devenir v.i. 变成【become】
+215	on pron. 人们；我们；某人【无对应英文】
+216	étape n.f. 阶段【step】
+217	vers prép. 朝向，将近【towards】
+218	salut n.m. 你好；再见【hi ; byebye】
+219	mot n.m. 字，词【word】
+220	entre prép. 在……之间【between】
+221	proche adj. 近的【close】
+222	fois n.f. 次，回【time】
+223	travailler v.i. 工作【work】
+224	dimanche n.m. 星期日【Sunday】
+225	sonner v.i. 按铃，鸣响【ring】
+226	porte n.f. 门【door】
+227	entendre v.t. 听见【hear】
+228	point adv. 不，没（与 ne 连用）【not】
+229	mauvais, e[mɔvε] adj. 不好的【bad】
+230	chaud, e adj. 热的【hot】
+231	froid, e adj. 冷的，凉的【cold】
+232	doux, ce adj. 甜的，柔和的【sweet, soft】
+233	sec, sèche adj. 干燥的【dry】
+234	nuage n.m. 云【cloud】
+235	mouillé, e adj. 湿淋淋的，湿透的【wet】
+236	bain n.m. 洗澡【bath】
+237	nez n.m. 鼻子【nose】
+238	renard n.m. 狐狸【fox】
+239	bureau n.m. 办公室；办公桌【office ; writing desk】
+240	pompier n.m. 消防员【firefighter】
+241	lait n.m. 奶【milk】
+242	fleur n.f. 花【flower】
+243	quatre adj.num. 四【four】
+244	neuf adj.num. 九【nine】 | neuf, ve adj. 崭新的【new】
+245	onze adj.num. 十一【eleven】
+246	douze adj.num. 十二【twelve】
+247	treize adj.num. 十三【thirteen】
+248	quatorze adj.num. 十四【fourteen】
+249	quinze adj.num. 十五【fifteen】
+250	seize adj.num. 十六【sixteen】
+251	vingt adj.num. 二十【twenty】
+252	trente adj.num. 三十【thirty】
+253	quarante adj.num. 四十【forty】
+254	cinquante adj.num. 五十【fifty】
+255	soixante adj. et n. [swasɑ̃t] 六十【sixty】
+256	cent adj. num. 一百【one hundred】
+257	père n.m. 父亲【father】
+258	regarder v.t. 看，注视，瞧【look at】
+259	aîné, e n. et adj. 年龄较大的（人）【elder】
+260	oublier v.t. 忘记【forget】
+261	nom n.m. 姓名【name】
+262	actuel, le adj. 目前的【current】
+263	grippe n.f. 流感【flu】
+264	assez adv. 足够地，相当地【enough】
+265	singe n.m. 猴子【monkey】
+266	poulet n.m. 鸡，鸡肉【chicken】
+267	loin adv. 远【far】
+268	vouloir v.t. 想，打算【want】
+269	lécher v.t. 舔【lick】
+270	patron, ne n. 老板【boss】
+271	plusieurs adj.indéf.pl. 好几个，好些【several】
+272	mois n.m. 月份【month】
+273	casser v.t. 打破【break】
+274	œuf n.m. 蛋【egg】
+275	creuser v.t. 挖掘，凿【dig】
+276	tête n.f. 头【head】
+277	plaire(à) v.t.indir. 使高兴【please】
+278	arrêt n.m. 公共汽车站【stop】
+279	fumer v.i. et v.t. 吸烟，冒烟【smoke】
+280	feu n.m. 火【fire】 | adj. 刚死的【deceased】
+281	court, e adj. 短的【short】
+282	devoir v.t. 应该；必须；欠【should ; must ; owe】 | n.m. 责任；作业【duty ; homework】
+283	gêner v.t. 使不舒服，使拘束【bother】
+284	lorsque conj. 当……时【when】
+285	bagage n.m. 行李【luggage】
+286	tout adv. 非常，完全地【very】 | adj.indéf. (toute, tous, toutes) 任何，都【each, all】
+287	voyager v.i. 旅行【travel】
+288	vacances n.f.pl. 假期【holidays】
+289	chambre n.f. 房间，卧室【room】
+290	dessin n.m. [desɛ]̃ 图画【drawing】
+291	stylo n.m. 钢笔【pen】
+292	chose n.f. 事物，东西【thing】
+293	voisin, e n. 邻居【neighbor】
+294	nid n.m. 窝，巢【nest】
+295	vivre v.i. et v.t. 生活【live】
+296	jamais adv. 曾经；从来没有【ever ; never】
+297	rester v.i. 留下，剩下；保持某种状态【stay ; remain】
+298	soit conj. 即，就是【that is to say】；或者……或者……【either ... or ...】
+299	haïr v.t. 仇恨，憎恶【hate】
+300	frère n.m. 兄弟【brother】
+301	demander v.t. 要求；问【ask】
+302	bourse n.f. 助学金【scholarship】
+303	faim n.f. 饥饿【hunger】
+304	voler v.t. 偷窃 | v.i. 飞行【steal ; fly】
+305	jambe n.f. 腿【leg】
+306	plus adv. 更【more】adv. 不再（和 ne 连用）【no longer】
+307	enfant n. 儿童，小孩【child】
+308	nourriture n.f. 食物【food】
+309	premier, ère adj. 第一【first】
+310	vrai, e adj. 真实的，确实的【true, real】
+311	homme n.m. 男人；人【man】
+312	drapeau n.m. 旗帜【flag】
+313	lune n.f. 月亮，月球【Moon】
+314	ouvrage n.m. 工作；作品【work】
+315	trou n.m. 洞，窟窿【hole】
+316	mur n.m. 墙【wall】
+317	sang n.m. 血【blood】
+318	oie n.f. 鹅【goose】
+319	chou n.m. 白菜【cabbage】
+320	vélo n.m. 自行车【bike】
+321	bateau n.m. 船【boat】
+322	dernier, ère adj. 最后的；上一次的【last】
+323	métier n.m. 职业【job】
+324	même adj. et adv. 相同的；本身；甚至【same ; self ; even】
+325	sous prép. 在……下面【under】
+326	attendre v.t. 等待【wait】
+327	réunion n.f. 会议【meeting】
+328	bon, ne adj. 好的【good】
+329	anglais n. 英国人 | adj. 英国（人）的 | n.m. 英语【english】
+330	apprendre v.t.（变位同 prendre）学习（得知）；教授；告诉【learn ; teach ; tell】
+331	navré, e adj. 伤心的，悲痛的【heartbroken】
+332	rive n.f. 河堤【bank】
+333	couler v.i. 流动【flow】
+334	enfer n.m. [ɑ̃fεr] 地狱，阴间【hell】
+335	autre adj. 另外的，其他的【other】
+336	apercevoir v.t. 瞥见【see, perceive】 | (se) v.pr. 意识到【realize】
+337	éprouver v.t. 感到；试验，考验【feel ; test】
+338	or conj. 然而【but】 | n.m. 金，黄金【gold】
+339	savoir v.t. 知道，会【know】
+340	ni…ni conj. 既不……也不【neither… nor】
+341	compte n.m. 账户，账号【account】
+342	conte n.m. 故事【tale】
+343	doigt n.m. 手指【finger】
+344	orteil n.m. 脚趾【toe】
+345	enchanté, e adj. 高兴的【glad】
+346	connaître v.t. 知道，了解【know】
+347	janvier n.m. 一月【January】
+348	plein, e adj. 满的，充满的【full】
+349	guerre n.f. 战争【war】
+350	sympa adj.inv. 友好的，讨人喜欢的【friendly】
+351	près(de) loc.prép. 在……附近【near】
+352	demain adv. 明天【tomorrow】
+353	chapeau n.m. 帽子【hat】
+354	ciel n.m. 天空【sky】
+355	porter v.t. 提，承载，运送；穿【carry ; wear】
+356	brun, e adj. 褐色的，棕色的【brown】
+357	chemise n.f. 衬衫【shirt】
+358	pantalon n.m. 长裤【trousers】
+359	bleu adj. 蓝色的【blue】
+360	foncé, e adj. （颜色）深的【dark】
+361	rentrer v.i. 回来，回家【return】
+362	mettre v.t. 放，置于，穿上【put】
+363	robe n.f. 连衣裙【dress】
+364	rouge adj. 红色的【red】
+365	moins adv. 更少，较少【less】
+366	tiers n.m. 三分之一【third】
+367	esclave n. 奴隶，奴才【slave】
+368	léger, ère adj. 轻的【light】
+369	dépenser v.t. 花（钱）【spend】
+370	lourd, e adj. 沉重的，繁重的【heavy】
+371	montrer v.t. 出示，给……看【show】
+372	mari n.m. 丈夫【husband】
+373	vin n.m. 酒，葡萄酒【wine】
+374	vieux(vieil), vieille adj. 老的【old】
+375	lendemain n.m. 第二天【next day】
+376	fermer v.t. 关闭【close】
+377	selon prép. 根据，按照【according to】
+378	enquête n.f. 调查【investigation】
+379	contre prép. 反对【against】
+380	surtout adv. 特别，尤其【especially】
+381	heureux, se adj. 幸福的；高兴的【happy】
+382	manteau n.m. 大衣【coat】
+383	aujourd'hui adv. 今天【today】
+384	écouter v.t. 听【listen to】
+385	ambassade n.f. 大使馆【embassy】
+386	aussi adv. 同样，也【also】
+387	achever v.t. 完成【finish】
+388	joli, e adj. 美丽的，漂亮的【pretty】
+389	pire adj. 更坏的，更恶劣的【worse】
+390	moindre adv. 最小，最少【least】
+391	épier v.t. 窥视【spy】
+392	mieux adv. 更好地，较好地【better】
+393	autant(de) adv. 同样多【as much (as)】
+394	pays n.m. [pei] 国家【country】
+395	lent, e adj. 慢的【slow】
+396	lundi n.m. 星期一【Monday】
+397	commencer v.t. 开始【start】
+398	entier, ère adj. 整个的，全部的【whole】
+399	parler v.i. et v.t. 讲；说（某种语言）【talk ; speak】
+400	sommeil n.m. 睡意，困倦【sleep】
+401	élève n. 学生【student】
+402	tenter v.i. et v.t. 尝试【try to】
+403	réveiller(se) v.pr. 醒来【wake up】
+404	enseigner v.t. 教课，授课【teach】
+405	lutte n.f. 斗争，搏斗，竞争【fight】
+406	nul, le adj. 无用的；无能的【worthless ; bad】 | pron. indéf. 没有人【nobody】
+407	frais, fraîche adj. 凉的，新鲜的【fresh】 | n.m.pl. 费用，开支【costs】
+408	chaque adj. 每个【each】
+409	nouveau, nouvelle adj. 新的【new】 | nouvelle n.f. 新闻【news】
+410	disponible adj. 可以被使用的【available】
+411	tenir v.t. 拿着，握着【hold】 | v.i. 坚持住
+412	boutique n.f. 店铺【store】
+413	aucun, e adj. 没有一个【no】
+414	désolé, e adj. 抱歉的【sorry】
+415	os n.m. [ɔs] 骨头【bone】
+416	mourir v.i. 死，死亡【die】
+417	croire v.i. et v.t. 想，以为；相信【think ; believe】
+418	comprendre v.t. 明白，理解；包括【understand ; include】
+419	sortir v.i. et v.t.（变位同 partir）出去；把……取出【exit ; take out】
+420	cahier n.m. 本子【notebook】
+421	sac n.m. 包，袋【bag】
+422	épuiser v.t. 使穷尽【exhaust】
+423	déjeuner n.m. 午饭【lunch】
+424	dur, e adj. 坚硬的；困难的【hard】
+425	fin n.f. 结尾【end】
+426	repas n.m. 餐，饮食【meal】
+427	perdre v.t. 丢失【lose】
+428	gens n.pl. 人们【people】
+429	matelas n.m. 床垫【mattress】
+430	dormir v.i. 睡觉【sleep】
+431	tirer v.t. 拉【draw】
+432	queue n.f. 尾巴【tail】
+433	ongle n.m. 指甲【nail】
+434	habiter v.i. et v.t. 居住【live】
+435	paysage n.m. [peizaʒ] 风景【landscape】
+436	Dieu n.m. 上帝【God】
+437	campagne n.f. 农村，乡下【countryside】
+438	ville n.f. 城市【city】
+439	mère n.f. 母亲【mother】
+440	garder v.t. 看管；保持【guard ; keep, retain】
+441	encore adv. 还，尚【still】
+442	tant(de) adv. 那么多的【so many , so much】
+443	rompre v.i.（变位同 attendre）中止，打断【break up】
+444	choisir v.t. 选择【choose】
+445	couper v.t. 切，切断，断绝【cut】
+446	seul, e adj. 单独的，唯一的【alone，single】
+447	roi n.m. 国王【king】
+448	arbre n.m. 树【tree】
+449	accroître v.t. 增长【increase】
+450	arroser v.t. 浇水【water】
+451	tricher v.i. 作弊【cheat】
+452	mûrir v.t. 成熟【mature】
+453	jardin n.m. 花园【garden】
+454	fondre v.t.（变位同 attendre）溶解，熔化【melt】
+455	triste adj. 悲伤的，忧愁的【sad】
+456	fond n.m. 底部；背景【bottom ; background】
+457	fouiller v.t. 翻找，搜索【search】
+458	poche n.f. 口袋【pocket】
+459	carré, e adj. 平方【square】
+460	environ prép. 大约在，左右【about】
+461	meuble n.m. 家具【furniture】
+462	besoin n.m. 需要【need】
+463	bol n.m. 碗【bowl】
+464	brosse n.f. 刷子【brush】
+465	dent n.f. 牙齿【tooth】
+466	peigner(se) v.pr. 梳头【comb】
+467	culotte n.f. 短裤，裤子【knickers, pants】
+468	carnet n.m. 记事本【notebook】
+469	estomac n.m. [εstɔma] 胃【stomach】
+470	arracher v.t. 抢走【snatch】
+471	aube n.f. 拂晓，黎明【dawn】
+472	monsieur n.m. [məsjø] 先生【Mr.】
+473	cela pron.dém. 这个【≈it】
+474	cheval n.m. 马【horse】
+475	école n.f. 学校【school】
+476	fer n.m. 铁【iron】
+477	pendant prép. 在……期间【during】
+478	banlieue n.f. 郊区【suburbs】
+479	printemps n.m. 春天【spring】
+480	hiver n.m. [ivεr] 冬天【winter】
+481	fête n.f. 节日；欢宴【holiday ; party】
+482	nu, e adj. 赤裸的【naked】
+483	allô interj. 喂（电话用语）【hello】
+484	tromper v.t. 欺骗【fool】 | (se) v.pr. 搞错【make a mistake】
+485	numéro n.m. 号码【number】
+486	sembler v.i. 好像，看来【seem】
+487	déjà adv. 已经【already】
+488	briller v.i. 发光；出众【shine】
+489	faux, sse adj. 错误的【false】
+490	empêcher v.t. 挡住，妨碍【prevent】
+491	virer v.t. 转账；解雇【transfer ; fire】
+492	argent n.m. 钱【money】
+493	escroc n.m. [εskro] 骗子【crook】
+494	donner v.t. 给【give】
+495	démission n.f. 辞职【resignation】
+496	colère n.f. 生气【anger】
+497	grave adj. 严重的【serious】
+498	derrière prép. 在…后边（表示空间）【behind】
+499	soupçonner v.t. 怀疑，猜想【suspect】
+500	partager v.t. 分割；分享【divide ; share】
+501	chagrin n.m. 忧愁【grief】
+502	demi, e adj. 一半的【half】
+503	maire n.m. 市长【mayor】
+504	bouche n.f. 嘴【mouth】
+505	appeler v.t. 叫；打电话【call】
+506	paraître v.i.（变位同 connaître）似乎；出现【seem ; appear】
+507	droit n.m. 权利【right】 |  adj. 直的；右边【straight ; right】
+508	gauche adj. et n.f. 左边【left】 | adj. 笨拙的【clumsy】
+509	endroit n.m. 地方，场所【place】
+510	souhaiter v.t. 祝愿，希望【wish】
+511	méchant, e adj. 坏的，凶恶的【wicked】
+512	devant prép. 在……前面（表示空间）【in front of】
+513	alors adv. 当时；那么【then ; so】
+514	défaut n.m. 缺少；缺点【lack ; flaw】
+515	épouser v.t. 嫁，娶【marry】
+516	juin n.m. 六月【June】
+517	rencontrer v.t. 遇见【encounter】
+518	juillet n.m. 七月【July】
+519	août n.m. [ut] 八月【August】
+520	durer v.i. 持续【last】
+521	février n.m. 二月【February】
+522	envoyer v.t. 寄出；派遣【send】
+523	avril n.m. 四月【April】
+524	chercher v.t. 寻找【look for】
+525	début n.m. 开始，开端【beginning】
+526	prochain, e adj. 下一个的，即将到来的【next】
+527	convenir(à) v.t.indir.（变位同 venir）适合【suit】
+528	poudre n.f. 粉末【powder】
+529	cependant conj. 然而【however】
+530	sens n.m. [sɑ̃s] 意思；方向【meaning ; direction】
+531	étranger, ère adj. 外国的【foreign】
+532	œil n.m. (yeux pl.) 眼睛【eye】
+533	malgré prép. 虽然，不管【despite】
+534	siège n.m. 座位；所在地【seat】
+535	asseoir(s') v.pr. 坐下【sit down】
+536	côte n.f. 肋骨；海岸【rib ; coast】
+537	coller v.t. 贴，粘【paste】
+538	pauvre adj. 贫穷的；可怜的【poor】
+539	ventre n.m. 肚子【belly】
+540	terre n.f. 地，地球【earth】
+541	douche n.f. 淋浴【shower】
+542	esprit n.m. 精神【spirit】
+543	bout n.m. 末端，尽头【end】
+544	maintenant adv. 现在，目前【now】
+545	genre n.m. 种类【kind】
+546	avouer v.t. 承认；招认【admit ; confess】
+547	tort n.m. 错误【wrong】
+548	conseiller v.t. 建议【advise】
+549	ouvrir v.t. 打开【open】
+550	cœur n.m. 心脏【heart】
+551	déverser v.t. 灌，倾倒【pour out】
+552	faible adj. 软弱的，虚弱的【weak】
+553	niveau n.m. 水平，等级【level】
+554	plupart n.f. 大部分【most】
+555	d'accord loc.adv. 同意；好的【agree ; okay】
+556	pouvoir v.t. 能够【can】 | n.m. 权力【power】
+557	franchir v.t. 越过；战胜【cross ; overcome】
+558	jouer v.i. et v.t. 玩耍，游戏；扮演【play】
+559	aider v.t. 帮助【help】
+560	vaisselle n.f. 碗碟【dishes】
+561	chute n.f. 跌落，降落【fall】
+562	foie n.m. 肝（脏）【liver】
+563	gras, se adj. 肥的【fat】
+564	coquille n.f. 贝壳【shell】
+565	essayer v.t. 尝试【try】
+566	meilleur, e adj. 更好的【better】
+567	marrant, e adj. 滑稽的，有趣的【funny】
+568	cadeau n.m. 礼物【gift】
+569	craindre v.t.（变位同éteindre）害怕，敬畏【fear】
+570	garçon n.m. 男孩【boy】
+571	voiture n.f. 汽车，轿车【car】
+572	fâché, e adj. 生气的，愤怒的【angry】
+573	agir v.i. (conj. 2) 做【act】 | (s’) v.pr.涉及【be a question of】
+574	cher, ère adj. 亲爱的；昂贵的【dear ; expensive】
+575	bouteille n.f. 瓶子【bottle】
+576	avion n.m. 飞机【plane】
+577	remplir v.t. 填满【fill】
+578	pleurer v.i. 哭【cry】
+579	légume n.m. 蔬菜【vegetable】
+580	sentir v.t.（变位同 partir）感觉到，闻到【feel ; smell】
+581	ail n.m. [aj] 大蒜【garlic】
+582	prêter v.t. 借出【lend】
+583	oreille n.f. 耳朵【ear】
+584	sourd, e adj. 聋的【deaf】
+585	aigu, ë adj. 尖的【sharp】
+586	genou n.m. 膝盖【knee】
+587	envie n.f. 愿望，欲望【wish, desire】
+588	vêtement n.m. 衣服【clothing】
+589	séjour n.m. 停留【stay】
+590	jeter v.t. 扔，投，掷【throw】
+591	chausser v.t. 穿（鞋子）【put on (shoes and so on)】
+592	ver n.m. 虫子【worm】
+593	vert, e adj. 绿色的【green】
+594	diriger(se)(vers) v.pr. 走向，驶向【head (to)】
+595	verre n.m. 玻璃；玻璃杯【glass】
+596	suivre v.t. 跟随【follow】
+597	prêt, e adj. 准备好的【ready】
+598	viande n.f. 肉【meat】
+599	herbe n.f. 草【grass】
+600	écrire v.t. 写【write】
+601	caillou n.m. 石头【pebble】
+602	cerf n.m. [sεr] 鹿【deer】
+603	fusil n.m. 枪【gun】
+604	sœur n.f. 姐妹【sister】
+605	ruisseau n.m. 小溪【stream】
+606	neveu n.m. 侄子，外甥【nephew】
+607	canard n.m. 鸭子【duck】
+608	usine n.f. 工厂【factory】
+609	bâtiment n.m. 楼房【building】
+610	hirondelle n.f. 燕子【swallow】
+611	toit n.f. 屋顶【roof】
+612	grenouille n.f. 青蛙【frog】
+613	serpent n.m. 蛇【snake】
+614	puits n.m. 井【well】
+615	loup n.m. 狼【wolf】
+616	rein n.m. 肾，肾脏【kidney】
+617	semaine n.f. 星期【week】
+618	éviter v.t. 避免，避开【avoid】
+619	rendre v.t.（变位同 attendre）归还；使变得【return, give back ; make】
+620	mince adj. 单薄的【slim】
+621	gros, se adj. 粗的；大的；胖的【large ; big ; fat】
+622	étoile n.f. 星星【star】
+623	cygne n.m. 天鹅【swan】
+624	étroit, e adj. 窄的【narrow】
+625	nettoyer v.t. 清扫【clean】
+626	immeuble n.m. 楼房【building】
+627	poing n.m. [pwɛ̃] 拳头【fist】
+628	debout adv. 站着【standing】
+629	côté n.m. 旁；方面【side】
+630	paix n.f. 和平【peace】
+631	aveugle adj. 瞎的；盲目的【blind】
+632	soigner v.t. 照料，治疗【treat】
+633	gentil, le adj. [ʒɑ̃ti, -j] 和善的，友好的【nice】
+634	bras n.m. 手臂，胳膊【arm】
+635	voilà prép. 那儿【there】
+636	larme n.f. 眼泪【tear】
+637	car conj. 因为【because】
+638	moyen n.m. 方法，办法【way】 | adj. 中等的，中间的【middle】
+639	commode adj. 方便的【convenient, handy】
+640	sauf prép. 除……以外【except】
+641	main n.f. 手【hand】
+642	valoir v.i. 值，价值【be worth】
+643	manquer v.i. et v.t. 缺少；错过【lack ; miss】
+644	bruit n.m. 声音；噪音【sound ; noise】
+645	chemin n.m. 道路【path】
+646	mener v.t. 带、领【lead】
+647	bêtise n.f. 蠢事，蠢话【foolishness】
+648	oser v.t. 敢，敢于【dare】
+649	poitrine n.f. 胸脯【chest】
+650	lèvre n.f. 嘴唇【lip】
+651	carte n.f. 地图；卡片【map ; card】
+652	tante n.f. 姨，姑【aunt】
+653	moitié n.f. 半，一半【half】
+654	santé n.f. 健康【health】
+655	d'après loc.prép. 根据【according to】
+656	tache n.f. 污点，斑点【stain】
+657	clé n.f. 钥匙【key】
+658	vendre v.t.（变位同 attendre）卖【sell】
+659	collier n.m. 项链【necklace】
+660	laver v.t. 洗【wash】
+661	sale adj. 脏的【dirty】
+662	loi n.f. 法律【law】
+663	allumer v.t. 点燃；打开电器【light ; turn on】
+664	propre adj. 干净的；自己的【clean ; own】
+665	honte n.f. 耻辱【shame】
+666	pareil, le adj. 相同的，同样的【same】
+667	épais, se adj. 厚的【thick】
+668	parfois adv. 有时【sometimes】
+669	mentir v.i.（变位同 partir）撒谎【lie】
+670	sot, te adj. 傻的【silly】
+671	corbeau n.m. 乌鸦【crow】
+672	chiffre n.m. 数字【figure】
+673	courir v.i. et v.t. 跑【run】
+674	dépasser v.t. 超越【exceed】
+675	but n.m. [by(t)] 目标【goal】
+676	lever(se) v.pr. 起床；站起【get up ; stand up】
+677	puis adv. 然后【then】
+678	poil n.m. 毛【hair】
+679	lapin n.m. 兔【rabbit】
+680	camion n.m. 卡车【truck】
+681	infirmier, ère n. 护士【nurse】
+682	paresseux, se adj. 懒惰的【lazy】
+683	poids n.m. 重量，分量【weight】
+684	anniversaire n.m. 生日【birthday】
+685	gâteau n.m. 蛋糕【cake】
+686	règle n.f. 尺，规则【rule】
+687	crayon n.m. 铅笔【pencil】
+688	gomme n.f. 橡皮【rubber】
+689	dehors adv. 在外面【outside】
+690	menton n.m. 下巴【chin】
+691	savon n.m. 肥皂【soap】
+692	gagner v.t. 挣（钱）；赢；到达【earn ; win ; reach】
+693	ordinateur n.m. 电脑，电子计算机【computer】
+694	hier adv. et n.m. 昨天【yesterday】
+695	espérer v.t. 希望【hope】
+696	cou n.m. 脖子【neck】
+697	roman n.m. 小说【novel】
+698	content, e adj. 高兴的【happy】
+699	brûler v.t. 烧【burn】
+700	gaspiller v.t. 浪费【waste】
+701	peser v.t. 称，称体重【weigh】
+702	parmi prép. 在……之中【among】
+703	tuer v.t. 杀死【kill】
+704	pleuvoir v.imp. 下雨【rain】
+705	vent n.m. 风【wind】
+706	colombe n.f. 鸽子【dove】
+707	étage n.m. 楼层【floor】
+708	fraise n.f. 草莓【strawberry】
+709	barbe n.f. 胡子【beard】
+710	reine n.f. 皇后【queen】
+711	dès prép. 从……起【from】
+712	ride n.f. 皱纹【wrinkle】
+713	puisque conj. 既然【since】
+714	gare n.f. 火车站 | interj. 注意【train station ; look out】
+715	lire v.t. 读，阅读【read】
+716	montre n.f. 手表【watch】
+717	cochon n.m. 猪【pig】
+718	pomme n.f. 苹果【apple】
+719	soleil n.m. 太阳【sun】
+720	pantoufle n.f. 拖鞋【slipper】
+721	doué, e adj. 有天分的【gifted】
+722	peinture n.f. 绘画【painting】
+723	souci n.m. 忧虑，操心，烦恼【worry】
+724	lunettes n.f.pl. 眼镜【glasses】
+725	laid, e adj. et n. 丑陋的（人），令人厌恶的（人）【ugly】
+726	cuisse n.f. 大腿【thigh】
+727	fesse n.f. 屁股【ass】
+728	déçu, e adj. 失望的【disappointed】
+729	fée n.f. 仙女【fairy】
+730	fier, ère adj. 自豪的，骄傲的【proud】
+731	poubelle n.f. 垃圾箱【trash can】
+732	peau n.f. 皮肤【skin】
+733	boîte n.f. 盒子【box】
+734	mouche n.f. 苍蝇【fly】
+735	sel n.m. 盐【salt】
+736	lieu n.m. 地方【place】
+737	congé n.m. 假期【holiday】
+738	plaisanter v.i. 开玩笑【joke】
+739	emprunter v.t. 借入【borrow】
+740	ensemble adv. 共同，一起【together】
+741	fidèle adj. 忠实的【faithful】
+742	soif n.f. 渴【thirst】
+743	aisé, e adj. 富裕的，宽裕的【easy】
+744	bouger v.i. 移动，走动【move】
+745	dos n.m. 背部【back】
+746	cloche n.f. 钟【bell】
+747	boiteux, se adj. 跛脚的【lame】
+748	corriger v.t. 改正，纠正【correct】
+749	presque adv. 几乎，差不多【nearly】
+750	goût n.m. 味道；品味；爱好【taste】
+751	chasser v.t. 打猎【hunt】
+752	joue n.f. 面颊【cheek】
+753	goutte n.f. （水）滴【drop】
+754	baiser n.m. 吻【kiss】
+755	front n.m. 前额【forehead】
+756	autrefois adv. 过去，以前【once upon a time】
+757	champignon n.m. 蘑菇【mushroom】
+758	jeudi n.m. [ʒødi] 星期四【Thursday】
+759	gris, e adj. 灰色的【gray】
+760	poisson n.m. 鱼，鱼肉【fish】
+761	nager v.i. 游泳【swim】
+762	pont n.m. 桥【bridge】
+763	étrange adj. 奇怪的【strange】
+764	Noël n.m. 圣诞节【Christmas】
+765	davantage adv. 更多地【more】
+766	ailleurs adv. 别处【elsewhere】
+767	jupe n.f. 裙子【skirt】
+768	sueur n.f. 汗，汗水【sweat】
+769	corps n.m. 身体【body】
+770	canapé n.m. 沙发【couch】
+771	taire(se) v.pr.（变位同 plaire）沉默；闭嘴【keep quiet ; shut up】
+772	étonner v.t. 使惊讶【amaze】
+773	oreiller n.m. 枕头【pillow】
+774	bonbon n.m. 糖果【candy】
+775	nuire v.i.（变位同 cuire）损害，妨碍【harm】
+776	couvercle n.m. 盖子【lid】
+777	truc n.m. 东西【thing】
+778	poire n.f. 梨【pear】
+779	médecin n.m. 医生【doctor】
+780	ours n.m. [urs] 熊【bear】
+781	patrie n.f. 祖国【homeland】
+782	chauffeur n.m. 汽车司机【driver】
+783	plat n.m. （一道）菜【dish】 | adj. 平的【flat】
+784	inquiéter v.t. 使担心【worry】
+785	colline n.f. 山【hill】
+786	fleuve n.m. 江【river】
+787	mou(mol), molle adj. 软的【soft】
+788	lumière n.f. 光线【light】
+789	bois n.m. 木头；树林【wood】
+790	foule n.f. 人群【crowd】
+791	partout adv. 到处【everywhere】
+792	assiette n.f. 盆，碟，盘【plate】
+793	œuvre n.f. 作品【work】
+794	gai, e adj. 快乐的，高兴的【cheerful】
+795	araignée n.f. 蜘蛛【spider】
+796	pierre n.f. 石头【stone】
+797	samedi n.m. 星期六【Saturday】
+798	flèche n.f. 箭【arrow】
+799	tâche n.f. 任务【task】
+800	papillon n.m. 蝴蝶【butterfly】
