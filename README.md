@@ -22,11 +22,13 @@ New word lists are welcome! Note that due to the original purpose of this projec
 
 - Extension doesn't matter
 - Each word should be on a separate line
-- Exact one `<Tab>` (`\t`) between extra info (like line number) and word with its meaning(s)
+- **EXACTLY ONE** `<Tab>` (`\t`) between extra info (like line number) and word with its meaning(s)
+- **AT LEAST ONE** `<Space>` between each word and its meaning(s), although one space is enough and is recommended. Note that you need to make sure it is the **FIRST** `<Space>` after the `<Tab>`
+- **NO** `<Space>` should be in the word itself
 - The word meaning(s) should be separated by `<Space>-<Vertical bar>-<Space>`(`|`)
 - Example:
   ```
-  Line num.	Word Word meaning A | Word meaning B...
+  17	un(e) adj.num. 一【one】 | art. indéf. ( des) 一个（一些）【a（≈some）】
   ```
 
 ## Deploy locally
@@ -51,6 +53,6 @@ streamlit run app.py --server.port=2022
 
 ## Acknoledgements
 
-Huge thanks to and love for:
+Huge shoutout to
 
-[![](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)]((https://docs.streamlit.io/))
+[![](https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png)](<(https://docs.streamlit.io/)>)
