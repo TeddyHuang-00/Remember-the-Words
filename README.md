@@ -6,7 +6,13 @@ _This is a project done in merely 2 hrs, so don't expect it to be perfect._
 
 ## Usage
 
-You can access this app from [this link](https://teddyhuang-00-remember-the-words-main-b6ezoa.streamlitapp.com/) provided by [Streamlit Cloud](https://streamlit.io/cloud). Thank you, Streamlit!
+You can [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://teddyhuang-00-remember-the-words-main-b6ezoa.streamlitapp.com/) provided by [Streamlit Cloud](https://streamlit.io/cloud), or alternatively, you can directly use this app in the follow frame. Thank you, Streamlit!
+
+<iframe loading="lazy" src="https://teddyhuang-00-remember-the-words-main-b6ezoa.streamlitapp.com/?embedded=true" style="
+                        width: 100%;
+                        border: none;
+                        height: 400px
+                    "></iframe>
 
 ## Contributing
 
